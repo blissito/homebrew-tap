@@ -1,8 +1,8 @@
 class GhostyRec < Formula
   desc "Record a single macOS window and edit it with agent-directed zooms"
   homepage "https://github.com/blissito/ghosty-rec"
-  url "https://github.com/blissito/ghosty-rec/archive/refs/tags/v0.6.5.tar.gz"
-  sha256 "dabb43949cc9ca56c01dc4af726370545ac000fc792cb5905f945eacdf846f15"
+  url "https://github.com/blissito/ghosty-rec/archive/refs/tags/v0.6.6.tar.gz"
+  sha256 "66d94f348a4002226457b10693b06291f7915c73128a8f9b98d6266db135abb5"
   license "MIT"
 
   depends_on macos: :sequoia
